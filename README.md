@@ -1,1 +1,3 @@
-"# RIchCoin-devs.github.io" 
+RIchCoin-devs.github.io
+========================
+
